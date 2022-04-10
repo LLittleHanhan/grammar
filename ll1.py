@@ -21,7 +21,6 @@ import ffp
 
 tokens = []
 
-
 # 记录token信息
 class infoNode:
     def __init__(self, nextBrotherId=-1):
