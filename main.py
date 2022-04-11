@@ -7,6 +7,8 @@ vt_path = './vt.txt'
 predict_path = './predict.txt'
 token_path = './token.txt'
 
+
+
 # 生成ffp集
 ffp.generateFFTSet(vt_path, formula_path)
 
